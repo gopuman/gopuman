@@ -2,7 +2,7 @@
 <h1 align="center">Hey!👋 I'm Gopal Nambiar</h1>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About me: </h3>
 
 - 🔭 I’m currently working on [pybrm](https://github.com/mkmoisen/pybrm)
 
