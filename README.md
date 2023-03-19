@@ -4,7 +4,7 @@
 
 <!-- <h3 align="left">About me: </h3> -->
 
-- 🔭 Working on [SHRUG](https://github.com/gopuman/SHRUG)
+- 🔭 Working on [ADM](https://github.com/gopuman/ADM)
 
 - 🌱 Learning **React, Go**
 
