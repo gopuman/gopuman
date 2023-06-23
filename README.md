@@ -4,13 +4,13 @@
 
 <!-- <h3 align="left">About me: </h3> -->
 
-- 🔭 Working on [ADM](https://github.com/gopuman/ADM)
+- 🔭 Working on [Uffizzi](https://github.com/UffizziCloud/)
 
 - 🌱 Learning **React, Go**
 
 - 👯 Looking to collaborate on [Intersect ∩](https://github.com/gopuman/Intersect)
 
-- 💬 Ask me about **Machine Learning, Python, Database Management, Computer Networks**
+- 💬 Ask me about **Machine Learning, Python, Database Management, and Computer Networks**
 
 - 📫 Reach me on 
   - [Email](gopalnambiar2@gmail.com)
